@@ -23,6 +23,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 🛠️ Instruções de execução
 Utilizei os prompts dentro de cada ferramenta, fornecido na parte de Materiais para criar um podcast de maneira automatizada.
+
     🤖 1. Usei os prompts de roteiro no chagpt – crei um ebook
     🤖 2. Usei os prompts de roteiro gerados pelo chatgpt no ElevenLabs
     🤖 3. Usei os prompts de artes no midjourney
